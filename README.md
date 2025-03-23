@@ -116,8 +116,8 @@ com.springcommerce
 
 - [x] Configuração inicial do projeto
 - [x] Implementação da entidade Product e sua API
-- [ ] Sistema de usuários com perfis de administrador e cliente
-- [ ] Implementação de autenticação JWT
+- [x] Sistema de usuários com perfis de administrador e cliente
+- [x] Implementação de autenticação JWT
 - [ ] Desenvolvimento do carrinho de compras
 - [ ] Sistema de processamento de pedidos
 - [ ] Integração com serviço de pagamento (simulado)
